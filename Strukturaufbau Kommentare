@@ -1,1 +1,13 @@
+GUI 
+-Startbildschirm
+-Hauptbildschirm 
+ -InGameMenü
+-Endcard mit Higscore Spieler Performance etc.
+
+Model 
+-Main, enthält die Schleife der Aktionen
+-Lemminge 
+-Spielfeldlogik
+-Auswertung/Performance Messung und Speicherung (vielleicht in CSS)
+
 
