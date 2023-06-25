@@ -1,3 +1,5 @@
+package GUI;
+
 public class Spielfeld {
     public static void main(String[] args) {
         int feldGroesse = 5;
